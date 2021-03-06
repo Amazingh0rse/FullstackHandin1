@@ -1,3 +1,18 @@
+
+
+**Gruppe Medlemmer**
+
+
+- [Alexander Pihl](https://github.com/AlexanderPihl)
+- [Jean-Poul Leth-Møller](https://github.com/Jean-Poul)
+- [Mick Larsen] (https://github.com/MivleDK/)
+- [Morten Rasmussen](https://github.com/Amazingh0rse)
+- [Per Kringelbach](https://github.com/cph-pk)
+
+
+
+###Læringsmål###
+
 # Period-1 Vanilla JavaScript, Es-next, Node.js, Babel + Webpack and TypeScript-1
 
 ## Explain and Reflect:
