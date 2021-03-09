@@ -170,8 +170,8 @@ In most cases, the value of this is determined by how a function is called (runt
   [Example of .reduce method being used line 67-74
   ](https://github.com/Amazingh0rse/FullstackHandin1/blob/main/day1/JavaScriptEx_day1/reduce.js)
   - **Provide examples of user-defined reusable modules implemented in Node.js (learnynode - 6)**
-
-
+ - [make-it-modular.js](https://github.com/AlexanderPihl/4sem-fullstack-flow1/blob/main/Week1-04-02-2021/make-it-modular.js)
+  - [mymodule.js](https://github.com/AlexanderPihl/4sem-fullstack-flow1/blob/main/Week1-04-02-2021/mymodule.js)
 
 
 - **Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, destructuring objects and arrays,   maps/sets etc.**
